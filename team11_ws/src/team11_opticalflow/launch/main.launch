@@ -1,0 +1,7 @@
+
+<launch>
+    <node pkg="team11_opticalflow" type="optical_flow" name="optical_flow_pub" />
+    <node pkg="team11_opticalflow" type="combines_twistdata.py" name="data_converter" />
+    <include file="$(find team11_opticalflow)/launch/ekf_robot_localization.launch"/>
+    <include file="$(find team11_opticalflow)/launch/ekf_robot_localization_imu.launch"/>
+</launch>
