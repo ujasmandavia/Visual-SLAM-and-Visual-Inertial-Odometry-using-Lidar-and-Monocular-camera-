@@ -1,9 +1,4 @@
-# Visual-SLAM-and-Visual-Inertial-Odometry-using-Lidar-and-Monocular-camera-
-Authors
-Ujas Mandavia
-Hanyu Zhang
-Andrew DeGonge
-Senhao Cao
+# Visual SLAM and Visual Inertial Odometry using Lidar and Monocular camera
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
